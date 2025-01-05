@@ -1,0 +1,41 @@
+,id,question,opa,opb,opc,opd,cop,choice_type,exp,subject_name,topic_name,exp_length,quantile
+0,714e860b-ff8b-42e0-b427-0c076081d548,"Fundoscopy of an HIV infected patient shows Pizza Pie Appearance, An Upper GI endoscopy biopsy specimen of the same patient for dysphagia shows the following. What is the likely diagnosis?",Candidiasis,Herpes,CMV,Eosinophilic Esophagitis,2,single,"
+A patient with HIV infection presents with fundoscopic findings of a ""Pizza Pie Appearance"" in the retina, which is a characteristic feature of CMV retinitis. This suggests that the patient has CMV retinitis, a common opportunistic ocular infection in immunocompromised individuals, including those with HIV.
+
+To further confirm the diagnosis, an upper GI endoscopy biopsy specimen is obtained due to the patient's symptoms of dysphagia. The histopathological examination of the biopsy specimen reveals the presence of large cells with an ""Owl's Eye"" appearance, which is a typical feature of CMV infection.
+
+The ""Owl's Eye"" appearance is characterized by the presence of an intranuclear inclusion body that is eccentrically placed and surrounded by a clear peripheral halo, giving it a distinctive appearance. This is caused by the presence of CMV, which infects cells and causes them to become cytomegalic, or enlarged.
+
+Given the presence of CMV retinitis on fundoscopy and the characteristic ""Owl's Eye"" appearance on histopathological examination, the most likely diagnosis is CMV infection.",Pathology,dermatology and infectious disease,1822,3
+1,0c381920-1397-4043-ad88-f9686c751d52,Which is the BEST site for taking biopsy in a case of viral oesophagitis?,Edge of ulcer,Base of ulcer,Adjacent indurated area around ulcer,Surrounding normal mucosa,0,single,"
+When evaluating a patient with viral esophagitis, it's essential to identify the most characteristic features of the infection. HSV esophagitis is commonly seen in immunocompromised patients and typically involves the middle and distal thirds of the esophagus. Microscopically, the characteristic features of herpetic infection occur in the squamous epithelium at the margin of the ulcers or erosions.
+
+To identify these characteristic features, the best site for biopsy is at the edge of the ulcer (Option A). This is because the squamous mucosa at the edges of the ulcer is more likely to show the characteristic viral inclusions, such as homogenous or smudge cells and acidophilic inclusions with a surrounding clear halo and peripheral chromatin migration (Cowdry type A).
+
+Taking a biopsy from the base of the ulcer (Option B) may not provide the same level of diagnostic accuracy, as the squamous epithelium may be damaged or sloughed off. The adjacent indurated area around the ulcer (Option C) may also not be the best site, as it may not contain the characteristic viral inclusions. Taking a biopsy from the surrounding normal mucosa (Option D) may not provide any diagnostic information about the viral infection.
+
+Therefore, the best site for biopsy in a case of viral esophagitis is at the edge of the ulcer (Option A).",Pathology,,868,3
+2,0593c2e0-741a-4350-a5ab-1a610056af6a,"A 16-year-old girl has had frequent nosebleeds since childhood. Her gums bleed easily, even with routine tooth brushing. She has experienced menorrhagia since menarche at age 13 years. On physical examination, there are no abnormal findings. Laboratory studies show hemoglobin, 14.1 g/dL; hematocrit, 42.5%; MCV, 90 mm3; platelet count, 277,400/ mm3; and WBC count, 5920/ mm3. Her platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin. The ristocetin agglutination test result is normal. There is a deficiency of glycoprotein IIb/IIIa. Prothrombin time is 12 seconds, and partial thromboplastin time is 28 seconds. What is the most likely diagnosis?",Disseminated intravascular coagulation,Glanzmann thrombasthenia,Immune thrombocytopenic purpura,Vitamin C deficiency,1,single,"
+A 16-year-old girl presents with a history of frequent nosebleeds since childhood, easy bleeding of her gums, and menorrhagia since menarche. She has no abnormal physical findings, but laboratory tests reveal a normal complete blood count (CBC) with the exception of a normal platelet count. The platelet aggregation test shows a failure to aggregate in response to ADP, collagen, epinephrine, and thrombin, which suggests a platelet function disorder.
+
+Given this information, we can eliminate options A (disseminated intravascular coagulation) and D (vitamin C deficiency) because they do not fit the patient's presentation. Disseminated intravascular coagulation would likely cause a consumptive coagulopathy with elevated prothrombin time and partial thromboplastin time, which is not seen in this patient. Vitamin C deficiency would not cause a platelet function disorder.
+
+Option C (immune thrombocytopenic purpura) is also unlikely because it is typically characterized by thrombocytopenia, which is not present in this patient. Additionally, the patient's platelet aggregation studies suggest a platelet function disorder rather than an immune-mediated destruction of platelets.
+
+The most likely diagnosis is therefore option B, Glanzmann thrombasthenia, which is a rare autosomal recessive disorder characterized by a deficiency or dysfunction of glycoprotein IIb/IIIa, leading to defective platelet aggregation. The normal ristocetin agglutination test result supports this diagnosis, as it is a test that specifically assesses the function of glycoprotein IIb/IIIa.",Pathology,Blood,865,3
+3,7171551c-b444-47dc-9ee4-de6fd0a4d928,Nearly 20% of normal tensile strength of tissue at the site of wound is gained after: September 2008,1 week of wound healing,2 weeks of wound healing,3 weeks of wound healing,4 weeks of wound healing,2,single,"
+Wound healing is a complex process that involves multiple stages. Initially, platelets adhere to the site of injury, releasing granules that trigger an inflammatory response. White blood cells are attracted to the area, and cytokines are released, which up-regulate integrins on macrophages, fibroblasts, and epithelial cells. These cells play crucial roles in wound healing and scar formation.
+
+As the wound heals, collagen production increases, and the scar begins to form. However, the scar tissue does not regain its full strength immediately. According to the explanation, wounds gain 20% of their ultimate strength in approximately 3 weeks. This is because the collagen fibers are still maturing and strengthening during this period.
+
+After 3 weeks, the wound continues to gain strength, but it never reaches more than about 70% of the strength of normal skin. Therefore, the correct answer is C) 3 weeks of wound healing, as this is the stage at which the tissue gains nearly 20% of its normal tensile strength.",Pathology,,1008,3
+4,f745ba65-3599-4d35-9857-7e14768455f9,Bone tumour arising from metaphysis ?,Osteogenic sarcoma,Ewing sarcoma,Osteoclastoma,Osteiod osteoma,0,single,"
+To determine the correct answer, let's break down the options based on the location of the tumor:
+
+* Metaphysis refers to the region of the bone where the growth plate is located, which is responsible for bone growth and development.
+* Diaphyseal lesions occur in the shaft of the bone, whereas metaphyseal lesions occur in the metaphysis.
+* Unicameral (simple) bone cysts, lymphomas, aneurysmal bone cysts, fibrous dysplasia, and fibrous cortical defects are not typically associated with the metaphysis.
+* Adamantinoma and histiocytosis can occur in various parts of the bone, but not specifically in the metaphysis.
+* Osteoid osteoma is a benign tumor that can occur in any part of the bone, including the metaphysis, but it is not a primary tumor that arises from the metaphysis.
+
+Based on the above analysis, the most likely answer is Osteogenic sarcoma (Option A), which is a type of primary bone tumor that typically arises from the metaphysis.",Pathology,,262,0

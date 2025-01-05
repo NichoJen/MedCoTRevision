@@ -1,0 +1,60 @@
+,id,question,opa,opb,opc,opd,cop,choice_type,exp,subject_name,topic_name,exp_length,quantile
+0,714e860b-ff8b-42e0-b427-0c076081d548,"Fundoscopy of an HIV infected patient shows Pizza Pie Appearance, An Upper GI endoscopy biopsy specimen of the same patient for dysphagia shows the following. What is the likely diagnosis?",Candidiasis,Herpes,CMV,Eosinophilic Esophagitis,2,single,"
+The patient is an HIV-infected individual with fundoscopy showing a ""Pizza Pie Appearance"" and an Upper GI endoscopy biopsy specimen exhibiting an ""Owl's Eye Appearance"". To determine the likely diagnosis, let's break it down step by step:
+
+1. The ""Pizza Pie Appearance"" on fundoscopy suggests a probable diagnosis of CMV retinitis, which is the most common opportunistic ocular infection in immunocompromised patients, including those with HIV.
+2. The Upper GI endoscopy biopsy specimen shows the presence of large cells with an ""Owl's Eye Appearance"". This appearance is typical of CMV infection, characterized by the presence of intranuclear inclusions.
+3. The ""Owl's Eye Appearance"" is caused by the presence of an 8-10 micrometer intranuclear basophilic (or amphophilic) inclusion body that is eccentrically placed and surrounded by a clear peripheral halo, producing an ""owl eye"" appearance.
+4. The presence of cytomegalic cells, which are two to four times larger than surrounding cells, with an intranuclear inclusion body, is a strong indication of CMV infection.
+5. CMV infection can affect various organs, including the salivary glands, lung, liver, kidney, intestine, pancreas, adrenal gland, and central nervous system.
+6. The virus inclusion description in CMV infection is characterized by Cowdry type A intranuclear basophilic (or amphophilic) inclusions surrounded by a halo and marginated chromatin, as well as intracytoplasmic inclusions consisting of clusters of small granular basophilic bodies of various sizes.
+
+Based on these findings, the likely diagnosis is C) CMV.",Pathology,dermatology and infectious disease,1822,3
+1,0c381920-1397-4043-ad88-f9686c751d52,Which is the BEST site for taking biopsy in a case of viral oesophagitis?,Edge of ulcer,Base of ulcer,Adjacent indurated area around ulcer,Surrounding normal mucosa,0,single,"
+1. The esophagus is a common site for gastrointestinal herpes infection, particularly in immunocompromised patients.
+2. The infection typically involves the middle and distal thirds of the esophagus.
+3. Microscopically, the characteristic features of herpetic infection occur in the squamous epithelium at the margin of the ulcers or erosions.
+4. The two types of viral inclusions present in HSV infection are homogenous or smudge cells and acidophilic inclusions with a surrounding clear halo and peripheral chromatin migration (Cowdry type A).
+5. To identify these characteristic features, it is essential to sample the area with the highest likelihood of containing viral inclusions.
+6. The edge of the ulcer is the most likely site to contain these characteristic features, as it is where the squamous epithelium is most likely to be affected by the viral infection.
+7. Sampling the edge of the ulcer allows for the highest yield of diagnostic material, increasing the accuracy of the biopsy results.
+
+Therefore, the best site for taking a biopsy in a case of viral esophagitis is the edge of the ulcer (Option A).",Pathology,,868,3
+2,0593c2e0-741a-4350-a5ab-1a610056af6a,"A 16-year-old girl has had frequent nosebleeds since childhood. Her gums bleed easily, even with routine tooth brushing. She has experienced menorrhagia since menarche at age 13 years. On physical examination, there are no abnormal findings. Laboratory studies show hemoglobin, 14.1 g/dL; hematocrit, 42.5%; MCV, 90 mm3; platelet count, 277,400/ mm3; and WBC count, 5920/ mm3. Her platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin. The ristocetin agglutination test result is normal. There is a deficiency of glycoprotein IIb/IIIa. Prothrombin time is 12 seconds, and partial thromboplastin time is 28 seconds. What is the most likely diagnosis?",Disseminated intravascular coagulation,Glanzmann thrombasthenia,Immune thrombocytopenic purpura,Vitamin C deficiency,1,single,"
+The patient, a 16-year-old girl, presents with a history of frequent nosebleeds since childhood, easy bleeding of her gums during routine tooth brushing, and menorrhagia since menarche. On physical examination, there are no abnormal findings. Laboratory tests reveal normal hemoglobin and hematocrit levels, but platelet count is normal. The patient's platelets fail to aggregate in response to various agonists, including ADP, collagen, epinephrine, and thrombin, which suggests a defect in platelet function.
+
+The ristocetin agglutination test, which assesses platelet function, is normal. However, the patient's platelets do not aggregate in response to ADP, collagen, epinephrine, and thrombin, which is a characteristic finding in Glanzmann thrombasthenia, a rare autosomal recessive disorder caused by a deficiency or dysfunction of glycoprotein IIb/IIIa.
+
+The other options can be ruled out based on the following:
+
+* Disseminated intravascular coagulation (DIC) would typically cause elevated prothrombin time (PT) and partial thromboplastin time (PTT), which is not the case here.
+* Immune thrombocytopenic purpura (ITP) is an autoimmune disorder that causes platelet destruction, but it would not cause a defect in platelet aggregation.
+* Vitamin C deficiency (scurvy) would cause bleeding due to increased capillary fragility, but platelet number and function would be normal.
+* Von Willebrand disease is a bleeding disorder caused by defects in von Willebrand factor, which is not the case here.
+
+Therefore, the most likely diagnosis is Glanzmann thrombasthenia, a rare autosomal recessive disorder characterized by defective platelet aggregation due to deficiency or dysfunction of glycoprotein IIb/IIIa.",Pathology,Blood,865,3
+3,7171551c-b444-47dc-9ee4-de6fd0a4d928,Nearly 20% of normal tensile strength of tissue at the site of wound is gained after: September 2008,1 week of wound healing,2 weeks of wound healing,3 weeks of wound healing,4 weeks of wound healing,2,single,"
+When a wound occurs, the body's natural healing process begins. Here's a step-by-step breakdown of the events that occur during wound healing:
+
+1. **Initial Response**: Platelets adhere to exposed matrix integrins, which bind to collagen and laminin. This leads to platelet aggregation and granule release.
+2. **Inflammation**: The platelet granules release chemical signals that attract white blood cells, which bind to integrins on endothelial cells and extravasate through the blood vessel walls.
+3. **Cytokine Release**: White blood cells and platelets release cytokines, which up-regulate integrins on macrophages, fibroblasts, and epithelial cells.
+4. **Macrophage Migration**: Macrophages, now with up-regulated integrins, migrate to the area of injury to clean up debris and promote healing.
+5. **Fibroblast and Epithelial Cell Activation**: Fibroblasts and epithelial cells, also with up-regulated integrins, begin to proliferate and migrate to the wound site to form scar tissue and restore the epithelium.
+6. **Collagen Production**: Collagen production increases, leading to the formation of scar tissue.
+7. **Plasmin Activity**: Plasmin, an enzyme, helps remove excess fibrin, allowing keratinocytes to migrate into the wound and restore the epithelium under the scab.
+
+Now, let's address the question: When does the wound gain nearly 20% of its ultimate strength?
+
+According to the explanation, collagen production and scar tissue formation occur during the healing process. The wound gains 20% of its ultimate strength in **3 weeks**, which is a critical period for collagen production and scar tissue formation. After 3 weeks, the wound continues to gain strength, but it never reaches more than about 70% of the strength of normal skin.
+
+Therefore, the correct answer is C) 3 weeks of wound healing.",Pathology,,1008,3
+4,f745ba65-3599-4d35-9857-7e14768455f9,Bone tumour arising from metaphysis ?,Osteogenic sarcoma,Ewing sarcoma,Osteoclastoma,Osteiod osteoma,0,single,"
+To determine the correct answer, let's break down the options and eliminate the ones that are not related to metaphyseal lesions.
+
+* Osteogenic sarcoma (Option A) is a type of bone tumor that can arise from the metaphysis, which is the growing end of a long bone. Therefore, it is a possible answer.
+* Ewing sarcoma (Option B) is a type of bone tumor that can arise from the diaphysis, which is the shaft of a long bone. It is not typically associated with metaphyseal lesions, so it can be eliminated.
+* Osteoclastoma (Option C) is a type of bone tumor that typically arises from the epiphysis, which is the end of a long bone. It is not typically associated with metaphyseal lesions, so it can be eliminated.
+* Osteoid osteoma (Option D) is a benign bone tumor that typically arises from the diaphysis or metaphysis, but it is not a type of sarcoma, so it is not the correct answer.
+
+Based on the options, the correct answer is Osteogenic sarcoma (Option A), which is a type of bone tumor that can arise from the metaphysis.",Pathology,,262,0

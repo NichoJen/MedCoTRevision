@@ -1,0 +1,67 @@
+,id,question,opa,opb,opc,opd,cop,choice_type,exp,subject_name,topic_name,exp_length,quantile
+0,714e860b-ff8b-42e0-b427-0c076081d548,"Fundoscopy of an HIV infected patient shows Pizza Pie Appearance, An Upper GI endoscopy biopsy specimen of the same patient for dysphagia shows the following. What is the likely diagnosis?",Candidiasis,Herpes,CMV,Eosinophilic Esophagitis,2,single,"
+Step 1: Interpret the fundoscopy findings
+The fundoscopy shows a ""Pizza Pie Appearance"", which is a characteristic feature of Cytomegalovirus (CMV) retinitis. This appearance is caused by the hemorrhage and necrosis in a perivascular distribution, resulting in a loss of fundal details.
+
+Step 2: Analyze the Upper GI endoscopy biopsy specimen
+The biopsy specimen shows large cells with an ""Owl's Eye"" appearance. This appearance is typical of CMV infection, characterized by the presence of intranuclear inclusions.
+
+Step 3: Identify the features of CMV infection
+The ""Owl's Eye"" appearance is caused by the presence of an 8- to 10-micron intranuclear basophilic (or amphophilic) inclusion body that is eccentrically placed and surrounded by a clear peripheral halo. This inclusion body is a characteristic feature of CMV infection.
+
+Step 4: Eliminate other possibilities
+The other options, Candidiasis, Herpes, and Eosinophilic Esophagitis, do not typically present with the characteristic fundoscopy and biopsy findings described.
+
+Step 5: Confirm the diagnosis
+Given the combination of the ""Pizza Pie Appearance"" on fundoscopy and the ""Owl's Eye"" appearance on biopsy, the likely diagnosis is Cytomegalovirus (CMV) retinitis and esophagitis.
+
+Therefore, the answer is C) CMV.",Pathology,dermatology and infectious disease,1822,3
+1,0c381920-1397-4043-ad88-f9686c751d52,Which is the BEST site for taking biopsy in a case of viral oesophagitis?,Edge of ulcer,Base of ulcer,Adjacent indurated area around ulcer,Surrounding normal mucosa,0,single,"
+When performing a biopsy in a case of viral esophagitis, it is essential to select the optimal site to ensure accurate diagnosis and optimal yield of diagnostic material. The best site for taking a biopsy is the edge of the ulcer (Option A).
+
+Here's a step-by-step reasoning:
+
+1. Viral esophagitis, particularly caused by Herpes Simplex Virus (HSV), typically affects the squamous mucosa, which is the lining of the esophagus.
+2. The characteristic features of HSV infection occur in the squamous epithelium at the margin of the ulcers or erosions.
+3. The two types of viral inclusions present in HSV infection are homogenous or smudge cells and acidophilic inclusions with a surrounding clear halo and peripheral chromatin migration (Cowdry type A).
+4. To identify these characteristic features, it is crucial to sample the area where the squamous epithelium is most likely to be affected, which is the edge of the ulcer.
+5. The edge of the ulcer is the optimal site for biopsy because it is where the squamous epithelium is most likely to be damaged, allowing for the presence of viral inclusions to be detected.
+6. Sampling the base of the ulcer (Option B) may not provide the same diagnostic yield, as the squamous epithelium may be less affected or even normal in this area.
+7. The adjacent indurated area around the ulcer (Option C) may not be the optimal site for biopsy, as it may not contain the characteristic features of HSV infection.
+8. Sampling surrounding normal mucosa (Option D) may not provide diagnostic material, as the virus is typically present in the affected area, not in the normal mucosa.
+
+Therefore, the correct answer is A) Edge of ulcer, as it is the most likely site to yield diagnostic material and provide an accurate diagnosis of viral esophagitis.",Pathology,,868,3
+2,0593c2e0-741a-4350-a5ab-1a610056af6a,"A 16-year-old girl has had frequent nosebleeds since childhood. Her gums bleed easily, even with routine tooth brushing. She has experienced menorrhagia since menarche at age 13 years. On physical examination, there are no abnormal findings. Laboratory studies show hemoglobin, 14.1 g/dL; hematocrit, 42.5%; MCV, 90 mm3; platelet count, 277,400/ mm3; and WBC count, 5920/ mm3. Her platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin. The ristocetin agglutination test result is normal. There is a deficiency of glycoprotein IIb/IIIa. Prothrombin time is 12 seconds, and partial thromboplastin time is 28 seconds. What is the most likely diagnosis?",Disseminated intravascular coagulation,Glanzmann thrombasthenia,Immune thrombocytopenic purpura,Vitamin C deficiency,1,single,"
+To diagnose the underlying cause of this patient's bleeding symptoms, we need to consider various bleeding disorders. Here's a step-by-step approach:
+
+1. Initial evaluation: The patient's physical examination reveals no abnormal findings, which suggests that the bleeding is not due to an external cause such as trauma or infection.
+2. Laboratory studies: The patient's complete blood count (CBC) shows a normal hemoglobin level (14.1 g/dL) and hematocrit (42.5%), indicating that anemia is not the primary cause of her bleeding. The mean corpuscular volume (MCV) is 90 mm3, which is within the normal range. The platelet count is 277,400/μL, which is slightly low but not significantly so. The white blood cell count (WBC) is 5920/μL, which is also within the normal range.
+3. Platelet function studies: The patient's platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin, which suggests a defect in platelet function. This is a critical finding, as it indicates that the patient's platelets are not functioning properly.
+4. Ristocetin agglutination test: The result of this test is normal, which rules out von Willebrand disease, a common bleeding disorder caused by defects in von Willebrand factor.
+5. Deficiency of glycoprotein IIb/IIIa: The patient's platelets have a deficiency of glycoprotein IIb/IIIa, which is a critical component of the platelet membrane. This deficiency is consistent with Glanzmann thrombasthenia, a rare autosomal recessive disorder characterized by defective platelet aggregation.
+6. Exclusion of other possibilities: Disseminated intravascular coagulation (DIC) is a condition that causes consumption of all coagulation factors and platelets, leading to bleeding and thrombocytopenia. However, the patient's prothrombin time (PT) is normal (12 seconds), and partial thromboplastin time (PTT) is only slightly elevated (28 seconds), which is not consistent with DIC. Immune thrombocytopenic purpura (ITP) is a condition caused by antibodies to platelet membrane glycoproteins IIb/IIIa or Ib/IX, but the patient's platelet count is not significantly low, and the platelet function studies suggest a defect in platelet function rather than a decrease in platelet number. Scurvy, caused by vitamin C deficiency, is characterized by bleeding into soft tissues and skin due to increased capillary fragility, but platelet number and function are normal in this condition.
+
+Based on the patient's symptoms, laboratory results, and platelet function studies, the most likely diagnosis is Glanzmann thrombasthenia, a rare autosomal recessive disorder caused by a deficiency or dysfunction of glycoprotein IIb/IIIa.",Pathology,Blood,865,3
+3,7171551c-b444-47dc-9ee4-de6fd0a4d928,Nearly 20% of normal tensile strength of tissue at the site of wound is gained after: September 2008,1 week of wound healing,2 weeks of wound healing,3 weeks of wound healing,4 weeks of wound healing,2,single,"
+1. When tissue is damaged, platelets adhere to exposed matrix integrins that bind to collagen and laminin, initiating the wound healing process.
+2. Blood coagulation produces thrombin, which promotes platelet aggregation and granule release, leading to the release of chemical signals that attract white blood cells.
+3. White blood cells, such as neutrophils and macrophages, are attracted to the site of injury by selections and bind to integrins on endothelial cells, allowing them to extravasate through the blood vessel walls.
+4. The white blood cells and platelets release cytokines, which up-regulate integrins on macrophages, fibroblasts, and epithelial cells. This facilitates the migration of these cells to the area of injury.
+5. Macrophages, fibroblasts, and epithelial cells play crucial roles in wound healing and scar formation. Macrophages remove debris and foreign substances, while fibroblasts produce collagen, and epithelial cells restore the epithelial layer.
+6. Plasmin, an enzyme produced by macrophages, aids in the healing process by breaking down excess fibrin, allowing keratinocytes to migrate into the wound and restore the epithelium under the scab.
+7. As the wound heals, collagen production increases, leading to the formation of a scar. The scar tissue gains strength over time, with nearly 20% of its ultimate strength achieved within 3 weeks.
+8. After 3 weeks, the wound continues to gain strength, but it never reaches more than about 70% of the strength of normal skin.
+
+Therefore, the correct answer is C) 3 weeks of wound healing, as this is the time frame during which the wound gains nearly 20% of its ultimate strength.",Pathology,,1008,3
+4,f745ba65-3599-4d35-9857-7e14768455f9,Bone tumour arising from metaphysis ?,Osteogenic sarcoma,Ewing sarcoma,Osteoclastoma,Osteiod osteoma,0,single,"
+The question asks about a bone tumor that arises from the metaphysis. To answer this, we need to consider the options and eliminate the ones that do not fit the description.
+
+Option A) Osteogenic sarcoma is a type of bone cancer that originates from the bone-forming cells, osteoblasts. It typically affects the metaphysis, which is the region of the bone where the growth plate is located. This is where bone growth and development occur, and osteogenic sarcoma often arises from this area. Therefore, option A) Osteogenic sarcoma is a strong contender.
+
+Option B) Ewing sarcoma is a type of bone cancer that originates from the bone marrow or soft tissue. While it can occur in the metaphysis, it is not exclusively limited to this region. Ewing sarcoma can also occur in the diaphysis (shaft) or other parts of the bone. Therefore, option B) Ewing sarcoma is not the most specific answer.
+
+Option C) Osteoclastoma is a benign tumor that arises from the bone cells responsible for bone resorption, osteoclasts. It typically occurs in the epiphysis (end of the bone) or diaphysis, but not in the metaphysis. Therefore, option C) Osteoclastoma is not the correct answer.
+
+Option D) Osteoid osteoma is a benign tumor that arises from the bone-forming cells, osteoblasts. While it can occur in the metaphysis, it is not a malignant tumor and does not fit the description of a bone tumor arising from the metaphysis.
+
+In conclusion, based on the location of the tumor and the type of cells involved, option A) Osteogenic sarcoma is the most likely answer.",Pathology,,262,0

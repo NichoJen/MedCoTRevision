@@ -1,0 +1,62 @@
+,id,question,opa,opb,opc,opd,cop,choice_type,exp,subject_name,topic_name,exp_length,quantile
+0,714e860b-ff8b-42e0-b427-0c076081d548,"Fundoscopy of an HIV infected patient shows Pizza Pie Appearance, An Upper GI endoscopy biopsy specimen of the same patient for dysphagia shows the following. What is the likely diagnosis?",Candidiasis,Herpes,CMV,Eosinophilic Esophagitis,2,single,"
+A patient with HIV infection presents with fundoscopy showing a ""Pizza Pie Appearance"" (also known as ""Cheese and Ketchup"" appearance) in the retina, which is a characteristic finding of Cytomegalovirus (CMV) retinitis. This is a common opportunistic ocular infection in immunocompromised patients, including those with HIV.
+
+The patient also underwent an Upper GI endoscopy and biopsy, which revealed the presence of large cells with an ""Owl's Eye"" appearance in the biopsy specimen. This appearance is typical of CMV infection, characterized by the presence of intranuclear inclusions that are 8-10 micrometers in size, surrounded by a clear peripheral halo.
+
+The ""Owl's Eye"" appearance is caused by the presence of these inclusions, which are eccentrically placed within the nucleus of infected cells. These cells are typically 2-4 times larger than surrounding cells and may also have smaller inclusions in the cytoplasm.
+
+CMV can infect various organs, including the salivary glands, lung, liver, kidney, intestine, pancreas, adrenal gland, and central nervous system. The virus inclusion bodies are characterized as Cowdry type A intranuclear basophilic (or amphophilic) inclusions, surrounded by a halo and marginated chromatin.
+
+Given the presence of the ""Pizza Pie Appearance"" in the fundoscopy and the ""Owl's Eye"" appearance in the biopsy specimen, the most likely diagnosis is C) CMV.",Pathology,dermatology and infectious disease,1822,3
+1,0c381920-1397-4043-ad88-f9686c751d52,Which is the BEST site for taking biopsy in a case of viral oesophagitis?,Edge of ulcer,Base of ulcer,Adjacent indurated area around ulcer,Surrounding normal mucosa,0,single,"
+When considering a biopsy for viral esophagitis, the goal is to identify the characteristic features of the viral infection, specifically the presence of viral inclusions. The most likely location to find these inclusions is within the squamous mucosa, which is the type of epithelium affected by herpes simplex virus (HSV) infection.
+
+The options for biopsy sites are:
+
+A) Edge of ulcer
+B) Base of ulcer
+C) Adjacent indurated area around ulcer
+D) Surrounding normal mucosa
+
+To determine the best site for biopsy, let's analyze each option:
+
+A) Edge of ulcer: This is the most likely site to find viral inclusions, as the squamous epithelium at the margin of the ulcer is where the characteristic features of HSV infection occur. This is supported by the reference text, which states that the characteristic features of herpetic infection occur in the squamous epithelium at the margin of the ulcers or erosions.
+
+B) Base of ulcer: This site may not be as likely to yield diagnostic information, as the ulcer base may be composed of granulation tissue or fibrin, which could obscure the presence of viral inclusions.
+
+C) Adjacent indurated area around ulcer: This area may be inflamed or scarred, making it less likely to contain diagnostic material.
+
+D) Surrounding normal mucosa: This site is unlikely to contain viral inclusions, as the normal mucosa is not typically affected by HSV infection.
+
+Based on the logical analysis, the best site for biopsy is A) Edge of ulcer, as it is the most likely location to find the characteristic features of HSV infection, specifically the viral inclusions.",Pathology,,868,3
+2,0593c2e0-741a-4350-a5ab-1a610056af6a,"A 16-year-old girl has had frequent nosebleeds since childhood. Her gums bleed easily, even with routine tooth brushing. She has experienced menorrhagia since menarche at age 13 years. On physical examination, there are no abnormal findings. Laboratory studies show hemoglobin, 14.1 g/dL; hematocrit, 42.5%; MCV, 90 mm3; platelet count, 277,400/ mm3; and WBC count, 5920/ mm3. Her platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin. The ristocetin agglutination test result is normal. There is a deficiency of glycoprotein IIb/IIIa. Prothrombin time is 12 seconds, and partial thromboplastin time is 28 seconds. What is the most likely diagnosis?",Disseminated intravascular coagulation,Glanzmann thrombasthenia,Immune thrombocytopenic purpura,Vitamin C deficiency,1,single,"
+The patient, a 16-year-old girl, presents with a history of frequent nosebleeds since childhood, easy bleeding of her gums, and menorrhagia since menarche. Despite a normal physical examination, laboratory tests reveal a normal hemoglobin and hematocrit level, but a platelet count of 277,400/mm3, which is within the normal range. The platelet aggregation studies show a failure to aggregate in response to ADP, collagen, epinephrine, and thrombin, which is a key characteristic of Glanzmann thrombasthenia.
+
+The patient's platelet aggregation studies are abnormal, but her platelet count is normal, which rules out immune thrombocytopenic purpura (option D). The normal prothrombin time and partial thromboplastin time also rule out disseminated intravascular coagulation (option A). The normal ristocetin agglutination test result suggests that the patient does not have von Willebrand disease (option not listed).
+
+The patient's symptoms and laboratory results are consistent with a deficiency or dysfunction of glycoprotein IIb/IIIa, which is a key component of platelet aggregation. This is a characteristic feature of Glanzmann thrombasthenia, an autosomal recessive disorder. Therefore, the most likely diagnosis is Glanzmann thrombasthenia (option B).",Pathology,Blood,865,3
+3,7171551c-b444-47dc-9ee4-de6fd0a4d928,Nearly 20% of normal tensile strength of tissue at the site of wound is gained after: September 2008,1 week of wound healing,2 weeks of wound healing,3 weeks of wound healing,4 weeks of wound healing,2,single,"
+When a wound occurs, the body's natural response is to repair the damaged tissue. This process involves a series of complex events that ultimately lead to the restoration of tissue strength.
+
+Initially, platelets adhere to the exposed matrix and release granules that promote platelet aggregation and an inflammatory response. This attracts white blood cells, which bind to endothelial cells and extravasate into the wound site. Cytokines released by these cells up-regulate integrins on macrophages, fibroblasts, and epithelial cells, which play crucial roles in wound healing and scar formation.
+
+As the wound heals, plasmin helps to remove excess fibrin, allowing keratinocytes to migrate into the wound and restore the epithelium under the scab. Collagen production increases, leading to the formation of a scar.
+
+The strength of the wound tissue increases over time. In the first three weeks, the wound gains approximately 20% of its ultimate strength. This is because the initial stages of wound healing focus on restoring the epithelial layer and promoting collagen production. After three weeks, the wound continues to gain strength, but it never reaches more than about 70% of the strength of normal skin.
+
+Therefore, the correct answer is C) 3 weeks of wound healing, as this is the point at which the wound gains approximately 20% of its ultimate strength.",Pathology,,1008,3
+4,f745ba65-3599-4d35-9857-7e14768455f9,Bone tumour arising from metaphysis ?,Osteogenic sarcoma,Ewing sarcoma,Osteoclastoma,Osteiod osteoma,0,single,"
+When considering a bone tumor arising from the metaphysis, we need to evaluate the options based on the characteristics of the lesion.
+
+The metaphysis is the region of the bone where the growth plate is active, and it's a common location for certain types of bone tumors to develop.
+
+Option A, Osteogenic sarcoma, is a type of primary bone tumor that arises from the bone-forming cells (osteoblasts) and typically affects the metaphysis. It's a common location for osteogenic sarcoma to develop, especially in the long bones of the lower extremities.
+
+In contrast, Option B, Ewing sarcoma, is a type of primary bone tumor that arises from the bone marrow and can occur in various locations, including the diaphysis (shaft) of the bone, but not typically in the metaphysis.
+
+Option C, Osteoclastoma, is a benign tumor that arises from the bone-resorbing cells (osteoclasts) and typically occurs in the epiphysis (end of the bone), not the metaphysis.
+
+Option D, Osteoid osteoma, is a benign tumor that arises from the bone-forming cells and typically occurs in the diaphysis or metaphysis, but it's not a primary bone tumor.
+
+Given the characteristics of the metaphysis and the options, the most likely answer is indeed A) Osteogenic sarcoma, as it is a primary bone tumor that commonly arises from the metaphysis.",Pathology,,262,0

@@ -1,0 +1,65 @@
+,id,question,opa,opb,opc,opd,cop,choice_type,exp,subject_name,topic_name,exp_length,quantile
+0,714e860b-ff8b-42e0-b427-0c076081d548,"Fundoscopy of an HIV infected patient shows Pizza Pie Appearance, An Upper GI endoscopy biopsy specimen of the same patient for dysphagia shows the following. What is the likely diagnosis?",Candidiasis,Herpes,CMV,Eosinophilic Esophagitis,2,single,"
+Step 1: Interpret the fundoscopic finding
+The ""Pizza Pie Appearance"" on fundoscopy suggests a diagnosis of CMV retinitis, which is a common opportunistic ocular infection in immunocompromised patients, including those with HIV.
+
+Step 2: Analyze the biopsy specimen
+The biopsy specimen shows large cells with an ""Owl's Eye Appearance."" This appearance is typical of CMV infection, characterized by the presence of intranuclear inclusions that are 8-10 micrometers in size and surrounded by a clear peripheral halo.
+
+Step 3: Consider the histopathological features
+The presence of large cells with Owl's Eye Appearance in the biopsy specimen is consistent with CMV infection. These cells are typically 2-4 times larger than surrounding cells and contain an intranuclear inclusion body.
+
+Step 4: Eliminate other possibilities
+Candidiasis and herpes are both opportunistic infections that can occur in HIV-infected patients, but they do not typically present with the characteristic histopathological features described in the biopsy specimen. Eosinophilic esophagitis is a chronic inflammatory condition that is not typically associated with the findings described.
+
+Step 5: Make the diagnosis
+Based on the combination of the fundoscopic finding and the histopathological features of the biopsy specimen, the likely diagnosis is CMV infection, specifically CMV retinitis and CMV esophagitis.
+
+Answer: C) CMV",Pathology,dermatology and infectious disease,1822,3
+1,0c381920-1397-4043-ad88-f9686c751d52,Which is the BEST site for taking biopsy in a case of viral oesophagitis?,Edge of ulcer,Base of ulcer,Adjacent indurated area around ulcer,Surrounding normal mucosa,0,single,"
+Options: A) Edge of ulcer, B) Base of ulcer, C) Adjacent indurated area around ulcer, D) Surrounding normal mucosa
+
+Explanation:
+
+Step 1: Identify the type of esophagitis: The patient has viral esophagitis, specifically HSV (herpes simplex virus) esophagitis.
+
+Step 2: Determine the location of the infection: HSV esophagitis commonly involves the middle and distal thirds of the esophagus.
+
+Step 3: Identify the characteristic features of HSV infection: Microscopically, the characteristic features of HSV infection occur in the squamous epithelium at the margin of the ulcers or erosions.
+
+Step 4: Determine the best site for biopsy: Given the characteristic features of HSV infection, the best site for biopsy is the edge of the ulcer, where the squamous epithelium is present.
+
+Therefore, the correct answer is A) Edge of ulcer.",Pathology,,868,3
+2,0593c2e0-741a-4350-a5ab-1a610056af6a,"A 16-year-old girl has had frequent nosebleeds since childhood. Her gums bleed easily, even with routine tooth brushing. She has experienced menorrhagia since menarche at age 13 years. On physical examination, there are no abnormal findings. Laboratory studies show hemoglobin, 14.1 g/dL; hematocrit, 42.5%; MCV, 90 mm3; platelet count, 277,400/ mm3; and WBC count, 5920/ mm3. Her platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin. The ristocetin agglutination test result is normal. There is a deficiency of glycoprotein IIb/IIIa. Prothrombin time is 12 seconds, and partial thromboplastin time is 28 seconds. What is the most likely diagnosis?",Disseminated intravascular coagulation,Glanzmann thrombasthenia,Immune thrombocytopenic purpura,Vitamin C deficiency,1,single,"
+Step 1: Evaluate the patient's bleeding symptoms and physical examination findings. The patient has a history of frequent nosebleeds and easy bruising, which suggests a bleeding disorder. However, the physical examination is normal, which rules out obvious signs of bleeding or coagulopathy.
+
+Step 2: Review the laboratory results. The patient's hemoglobin and hematocrit levels are normal, which suggests that anemia is not the primary cause of the bleeding. The platelet count is normal, which rules out thrombocytopenia. The WBC count is also normal, which suggests that there is no underlying infection or inflammatory process.
+
+Step 3: Analyze the platelet aggregation studies. The patient's platelets fail to aggregate in response to ADP, collagen, epinephrine, and thrombin, which suggests a defect in platelet function. The ristocetin agglutination test result is normal, which rules out von Willebrand disease.
+
+Step 4: Consider the patient's platelet function defect. The deficiency of glycoprotein IIb/IIIa suggests a diagnosis of Glanzmann thrombasthenia, a rare autosomal recessive disorder characterized by defective platelet aggregation.
+
+Step 5: Evaluate the coagulation studies. The prothrombin time and partial thromboplastin time are normal, which suggests that there is no underlying coagulopathy.
+
+Conclusion: Based on the stepwise evaluation, the most likely diagnosis is Glanzmann thrombasthenia, a rare bleeding disorder caused by a deficiency or dysfunction of glycoprotein IIb/IIIa.",Pathology,Blood,865,3
+3,7171551c-b444-47dc-9ee4-de6fd0a4d928,Nearly 20% of normal tensile strength of tissue at the site of wound is gained after: September 2008,1 week of wound healing,2 weeks of wound healing,3 weeks of wound healing,4 weeks of wound healing,2,single,"
+Step 1: Wound healing begins with platelet adhesion to exposed matrix integrins, which bind to collagen and laminin. This leads to platelet aggregation and granule release.
+
+Step 2: The platelet granules trigger an inflammatory response, attracting white blood cells to the site of injury. These cells bind to integrins on endothelial cells and extravasate through the blood vessel walls.
+
+Step 3: Cytokines released by white blood cells and platelets up-regulate integrins on macrophages, which migrate to the area of injury. Macrophages, fibroblasts, and epithelial cells play crucial roles in wound healing and scar formation.
+
+Step 4: Plasmin, an enzyme, aids in the healing process by removing excess fibrin, allowing keratinocytes to migrate into the wound and restore the epithelium under the scab.
+
+Step 5: Collagen production increases, leading to the formation of a scar. At this point, the wound has gained approximately 20% of its ultimate strength.
+
+Step 6: Further collagen production and remodeling occur, allowing the wound to gain more strength over time. However, the strength of the wound never exceeds about 70% of the strength of normal skin.
+
+Conclusion: Based on this stepwise process, it can be concluded that nearly 20% of normal tensile strength of tissue at the site of wound is gained after 3 weeks of wound healing (Option C).",Pathology,,1008,3
+4,f745ba65-3599-4d35-9857-7e14768455f9,Bone tumour arising from metaphysis ?,Osteogenic sarcoma,Ewing sarcoma,Osteoclastoma,Osteiod osteoma,0,single,"
+1. We are looking for a bone tumor that arises from the metaphysis, which is the region of the bone where the growth plate is located.
+2. We can eliminate options C) Osteoclastoma and D) Osteiod osteoma, as they typically occur in the epiphysis (the end of the bone) or diaphysis (the shaft of the bone), respectively.
+3. Option B) Ewing sarcoma can occur in the metaphysis, but it is more commonly found in the diaphysis. So, we can't rule it out yet.
+4. Option A) Osteogenic sarcoma is a type of bone cancer that can occur in the metaphysis. It is a common location for this type of tumor.
+
+Therefore, based on the location of the tumor, we can conclude that the correct answer is A) Osteogenic sarcoma.",Pathology,,262,0
